@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_O email ou o nmero de celular que voc inseriu no est conectado a uma conta. Encontre sua conta e entre</name>
+   <tag></tag>
+   <elementGuidId>ae9fc633-47d3-4bcb-8c27-fdb6ccf3a09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email_container']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b646f91a-82e9-4636-9616-52e1d239bbb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>addacab3-9b41-46cb-b554-035fd7c97969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.</value>
+      <webElementGuid>88b848da-8787-4259-8335-7cadfb6173d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>26c54ece-a5af-40d0-89d8-89ebe033a533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email_container']/div[2]</value>
+      <webElementGuid>c7b9ea7f-2ce0-42e2-8dfd-1ba55c9fd8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar no Facebook'])[2]/following::div[5]</value>
+      <webElementGuid>0b09ba45-f87a-43af-b556-a16977e5b1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[7]</value>
+      <webElementGuid>a7dce50f-5636-4b89-9aee-a803f6fc4c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='O email ou o número de celular que você inseriu não está conectado a uma conta.']/parent::*</value>
+      <webElementGuid>b06c3572-e69f-4820-85a5-5f7e7eaa9972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>60c147f1-2d5f-4c64-b05d-6bf7a0c7f1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.' or . = 'O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.')]</value>
+      <webElementGuid>58459933-d572-4a10-ac2a-a117eaeb7ffb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
