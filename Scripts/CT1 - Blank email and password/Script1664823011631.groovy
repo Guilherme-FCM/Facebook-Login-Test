@@ -23,6 +23,6 @@ WebUI.navigateToUrl('https://www.facebook.com/login')
 
 WebUI.click(findTestObject('Object Repository/Page_Entrar no Facebook/button_Entrar'))
 
-WebUI.verifyElementText(findTestObject('Page_Entrar no Facebook/div_O email ou o nmero de celular que voc inseriu no est conectado a uma conta. Encontre sua conta e entre'), 
+WebUI.verifyElementText(findTestObject('Page_Entrar no Facebook/div_O email que voc inseriu no est conectado a uma conta. Encontre sua conta e entre'), 
     'O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.')
 
