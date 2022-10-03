@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_O email ou o nmero de celular que voc inseriu no est conectado a uma conta. Encontre sua conta e entre</name>
+   <name>div_A senha inserida est incorreta. Esqueceu a senha</name>
    <tag></tag>
-   <elementGuidId>ae9fc633-47d3-4bcb-8c27-fdb6ccf3a09e</elementGuidId>
+   <elementGuidId>8e557d56-b491-4bf2-9458-934f78feaa8a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='email_container']/div[2]</value>
+         <value>//div[@id='loginform']/div[2]/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b646f91a-82e9-4636-9616-52e1d239bbb6</webElementGuid>
+      <webElementGuid>db3612eb-b33c-4d1e-a6d1-11155f24dcb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,70 +30,70 @@
       <name>class</name>
       <type>Main</type>
       <value>_9ay7</value>
-      <webElementGuid>addacab3-9b41-46cb-b554-035fd7c97969</webElementGuid>
+      <webElementGuid>ca8028d4-a414-436e-93a9-470568f2dcd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.</value>
-      <webElementGuid>88b848da-8787-4259-8335-7cadfb6173d9</webElementGuid>
+      <value>A senha inserida está incorreta. Esqueceu a senha?</value>
+      <webElementGuid>27ea5146-ae02-489e-b95f-7b186bf5a3b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
-      <webElementGuid>26c54ece-a5af-40d0-89d8-89ebe033a533</webElementGuid>
+      <value>id(&quot;loginform&quot;)/div[@class=&quot;clearfix _5466 _44mg&quot;]/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>fa15cc7c-9374-4ee7-8a2e-4b4ea5079167</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='email_container']/div[2]</value>
-      <webElementGuid>c7b9ea7f-2ce0-42e2-8dfd-1ba55c9fd8aa</webElementGuid>
+      <value>//div[@id='loginform']/div[2]/div[2]</value>
+      <webElementGuid>1ddf8476-56c8-41fe-ab37-2a128548c028</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar no Facebook'])[2]/following::div[5]</value>
-      <webElementGuid>0b09ba45-f87a-43af-b556-a16977e5b1ee</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar no Facebook'])[2]/following::div[10]</value>
+      <webElementGuid>8802c120-1957-4506-bba9-847ceaa6c37d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[7]</value>
-      <webElementGuid>a7dce50f-5636-4b89-9aee-a803f6fc4c4c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/preceding::div[1]</value>
+      <webElementGuid>fdf09efc-db16-44d1-a3cd-b548dd5c1388</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='O email ou o número de celular que você inseriu não está conectado a uma conta.']/parent::*</value>
-      <webElementGuid>b06c3572-e69f-4820-85a5-5f7e7eaa9972</webElementGuid>
+      <value>//*/text()[normalize-space(.)='A senha inserida está incorreta.']/parent::*</value>
+      <webElementGuid>d5338d74-e3f9-439f-b823-7b15cd4bc33a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/div/div[2]</value>
-      <webElementGuid>60c147f1-2d5f-4c64-b05d-6bf7a0c7f1df</webElementGuid>
+      <value>//form/div/div[2]/div[2]</value>
+      <webElementGuid>c233ab29-d96a-443c-a800-7ace14fb93e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.' or . = 'O email ou o número de celular que você inseriu não está conectado a uma conta. Encontre sua conta e entre.')]</value>
-      <webElementGuid>58459933-d572-4a10-ac2a-a117eaeb7ffb</webElementGuid>
+      <value>//div[(text() = 'A senha inserida está incorreta. Esqueceu a senha?' or . = 'A senha inserida está incorreta. Esqueceu a senha?')]</value>
+      <webElementGuid>a067b258-8040-4828-b34d-640be40271ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
