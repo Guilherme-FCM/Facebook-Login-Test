@@ -1,5 +1,8 @@
-# Plano de Teste: Facebook-Login-Test
-Verificar a funcionalidade do login do Facebook
+# Facebook-Login-Test: Plano de Teste
+
+## Nome do projeto
+
+Verificando a funcionalidade do login do Facebook
 
 ## Resumo
 
