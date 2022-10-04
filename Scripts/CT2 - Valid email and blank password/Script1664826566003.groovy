@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.facebook.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_email'), 'krsscheer@centurytel.net')
+WebUI.setText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_email'), 'guilherme.milhomem2@estudante.ifto.edu.br')
 
 WebUI.click(findTestObject('Page_Entrar no Facebook/button_Entrar'))
 
