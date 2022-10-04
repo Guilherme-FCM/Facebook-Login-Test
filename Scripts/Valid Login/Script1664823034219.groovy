@@ -27,3 +27,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Entrar no Facebook
 
 WebUI.click(findTestObject('Object Repository/Page_Entrar no Facebook/button_Entrar'))
 
+WebUI.verifyElementVisible(findTestObject('Page_Facebook/svg_Guilherme Feitosa_x1lliihq x1k90msu x2h7rmj x1qfuztq'), FailureHandling.STOP_ON_FAILURE)
+
