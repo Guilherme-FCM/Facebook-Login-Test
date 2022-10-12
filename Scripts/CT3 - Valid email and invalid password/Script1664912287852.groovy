@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.facebook.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_email'), 'guilherme.milhomem2@estudante.ifto.edu.br')
+WebUI.setText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_email'), email)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_pass'), 'a/+lUk0mIFRhTaGZUm1cmw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Entrar no Facebook/input_Entrar no Facebook_pass'), password)
 
 WebUI.click(findTestObject('Page_Entrar no Facebook/button_Entrar'))
 
