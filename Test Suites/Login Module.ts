@@ -31,6 +31,18 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/CT3 - Valid email and invalid password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3131f1dc-80e1-48cb-bc46-bb166ac4bb93</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1c0de8b9-b1d9-48f9-9d95-1c76e1be244d</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>839da50b-bba5-4a6e-81a0-7c1710302413</guid>
