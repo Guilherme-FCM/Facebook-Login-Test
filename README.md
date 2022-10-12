@@ -28,24 +28,21 @@ Os testes serão realizados no laboratório LabDes localizado dentro do estabele
 
 - Para que a funcionalidade seja considerada correta, todos os casos de teste devem ser
 executados com sucesso;
-- Os dados de e-mail e senha podem ser classificados em válido, inválido ou em branco, possuindo os seguintes significados para e-mail e senha:
-    - E-mail válido: um e-mail já cadastrado no sistema;
-    - E-mail inválido: um e-mail ainda não cadastrado no sistema;
-    - Senha válida: uma senha compatível com o e-mail informado;
-    - Senha inválida: uma senha incompatível com o e-mail informado;
-    - Em branco: nenhum valor informado.
+- Os dados de e-mail e senha podem ser classificados em válido, inválido ou em branco;
 - Os dados de e-mail e senha são *case sensitive;*
 - O sistema pode considerar a entrada de e-mails inválidos, caso ele considere que o usuário tenha cometido um leve erro de escrita, informando o e-mail possivelmente correto.
 - Visando a grande quantidade de classificação dos dados informados, será utilizado a técnica de casos de uso;
 
 ### **Dados do Teste:**
 
-| E-mail | Senha | Resultado |
-| --- | --- | --- |
-| guilherme.milhomem2@estudante.ifto.edu.br | c14YyW3h3NtA3mvY9gLTbA== | Válido |
-| bordeaux55@optonline.net | j121903j | Inválido |
-| krsscheer@centurytel.net | terry2 | Inválido |
-| mhelies@yahoo.com | skipternet1 | Inválido |
+| Caso de Teste | E-mail | Senha | Resultado |
+| --- | --- | --- | --- |
+| CT1 | ““ | ““ | Inválido |
+| CT2 | guilherme.milhomem2@estudante.ifto.edu.br | “” | Inválido |
+| CT3 | guilherme.milhomem2@estudante.ifto.edu.br | Senh@123 | Inválido |
+| CT4 | f.uhl1997@web.de | “” | Inválido |
+| CT5 | f.uhl1997@web.de | mexikanischesper | Inválido |
+| CT6 | guilherme.milhomem2@estudante.ifto.edu.br | 992913656 | Válido |
 
 ### **Casos de Teste:**
 
