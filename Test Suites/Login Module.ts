@@ -52,5 +52,17 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/CT6 - Valid email and password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c1baf1f3-6f2d-4ca6-bdef-85a7b012b5b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7f84dbfb-e408-440c-bd02-c6ba87779dd5</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
