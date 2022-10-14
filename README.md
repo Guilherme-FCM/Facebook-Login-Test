@@ -82,8 +82,8 @@ Os dados serão divulgados por meio de um relatório de testes exibidos no porta
 ## Cronograma
 | Atividade | Data |
 | --- | --- |
-| Definição dos Dados de Teste | 04/10 |
-| Criação do Casos de Teste | 11/10 |
-| Preparação do Local de Teste | 16/10 |
-| Aplicação dos Testes | 18/10 |
-| Entrega do Relatório de Teste | 18/10 |
+| Definição dos Dados de Teste | 04/10/2022 20:00 |
+| Criação do Casos de Teste | 11/10/2022 20:00 |
+| Preparação do Local de Teste | 16/10/2022 20:00 |
+| Aplicação dos Testes | 18/10/2022 10:00 |
+| Entrega do Relatório de Teste | 18/10/2022 22:00 |
